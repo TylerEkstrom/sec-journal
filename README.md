@@ -4,11 +4,6 @@ My name is Tyler Ekstrom. I am a student at [CodeWorks](https://boisecodeworks.c
 
 ## Work
 
-  + [My Github](https://github.com/jakeoverall)
-  + [Portfolio](https://jakeoverall.github.io/)
-
 ## Contact
 
-  + [Resume](https://jakeoverall.github.io/resume)
-  + Email: joverall22@gmail.com
-  
+ 
